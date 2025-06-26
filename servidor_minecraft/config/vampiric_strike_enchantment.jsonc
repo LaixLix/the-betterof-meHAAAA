@@ -1,0 +1,12 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 1,
+    // Range: 1 - 10
+    "levelOneEnchantmentHealValue": 2.0,
+    // Range: 1 - 10
+    "levelTwoEnchantmentHealValue": 3.0,
+    // Range: 1 - 10
+    "levelThreeEnchantmentHealValue": 4.0,
+    // Range: 1 - 10
+    "levelFourEnchantmentHealValue": 6.0
+}

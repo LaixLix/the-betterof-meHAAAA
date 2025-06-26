@@ -1,0 +1,44 @@
+#Whether to use the metric system over imperial
+metric = true
+#Volume of leaves in wind
+# Default: 0.0
+# Range: 0.0 ~ 1.0
+leavesvolume = 0.3
+#Volume of tornado sirens
+# Default: 0.75
+# Range: 0.0 ~ 1.0
+sirenvolume = 0.75
+#Whether the mod will disable Minecraft's base game fog system.
+basegamefog = true
+#Quality of volumetric clouds
+#Allowed Values: POTATO, LOW, MEDIUM, HIGH, PC_KILLER
+volumetricsquality = "POTATO"
+#Render scale of volumetric clouds (Causes artifacting but greatly improves performance)
+# Default: 2.5
+# Range: 1.0 ~ 4.0
+volumetricsdownsample = 4.0
+#Whether the mod will attempt to fix bleeding when downsampled
+glowfix = false
+#Whether the sun will cast light on clouds, turning this off will improved performance at the cost of visuals
+simplelighting = true
+#Whether the mod will blur the output of the volumetrics shader
+volumetricsblur = true
+#Max distance particles will spawn from the player
+# Default: 1024
+# Range: 256 ~ 2048
+maxparticlespawndistancefromplayer = 256
+#Density of debris particles, lower values are more performant
+# Default: 0.35
+# Range: 0.0 ~ 1.0
+debrisparticledensity = 0.0
+#Whether the mod will use it's built in particle system over vanilla minecraft's
+customparticles = false
+#Radar resolution (will be double this number in game)
+# Default: 50
+# Range: 1 ~ 100
+radarresolution = 50
+#Whether to use radar debugging
+radardebugging = false
+#Radar mode when radar debugging is enabled
+#Allowed Values: TEMPERATURE, WINDFIELDS, CAPE, CAPE3KM, CINH, LAPSERATE03, LAPSERATE36
+radarmode = "TEMPERATURE"
