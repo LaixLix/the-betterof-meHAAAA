@@ -9,7 +9,7 @@ leavesvolume = 0.3
 # Range: 0.0 ~ 1.0
 sirenvolume = 0.75
 #Whether the mod will disable Minecraft's base game fog system.
-basegamefog = true
+basegamefog = false
 #Quality of volumetric clouds
 #Allowed Values: POTATO, LOW, MEDIUM, HIGH, PC_KILLER
 volumetricsquality = "POTATO"

@@ -650,7 +650,7 @@ onlyReplaceResource = []
 
 [soul.durability]
 toolBaseDurability = 2031
-gauntletDurability = 3
+gauntletDurability = 500
 bowCrossbowDurability = 0
 addedShieldDurability = 0
 
@@ -688,7 +688,7 @@ onlyReplaceResource = []
 
 [fighters.durability]
 toolBaseDurability = 1561
-gauntletDurability = 3
+gauntletDurability = 500
 bowCrossbowDurability = 0
 addedShieldDurability = 0
 
@@ -726,7 +726,7 @@ onlyReplaceResource = []
 
 [maulers.durability]
 toolBaseDurability = 1561
-gauntletDurability = 3
+gauntletDurability = 500
 bowCrossbowDurability = 0
 addedShieldDurability = 0
 

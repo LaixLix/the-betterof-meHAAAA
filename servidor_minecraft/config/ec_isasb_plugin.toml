@@ -1,6 +1,6 @@
 [wanderingMagician.durability]
 toolBaseDurability = 540
-gauntletDurability = 0
+gauntletDurability = 540
 bowCrossbowDurability = 0
 addedShieldDurability = 0
 [wanderingMagician.enchanting]
@@ -33,7 +33,7 @@ isSingleAddition = false
 onlyReplaceResource = []
 [scarecrow.durability]
 toolBaseDurability = 1782
-gauntletDurability = 0
+gauntletDurability = 1782
 bowCrossbowDurability = 0
 addedShieldDurability = 0
 [scarecrow.enchanting]
@@ -66,7 +66,7 @@ isSingleAddition = false
 onlyReplaceResource = []
 [magicClothes.durability]
 toolBaseDurability = 2052
-gauntletDurability = 0
+gauntletDurability = 2052
 bowCrossbowDurability = 0
 addedShieldDurability = 0
 [magicClothes.enchanting]
@@ -99,7 +99,7 @@ isSingleAddition = false
 onlyReplaceResource = []
 [netheriteBattlemage.durability]
 toolBaseDurability = 2052
-gauntletDurability = 0
+gauntletDurability = 2052
 bowCrossbowDurability = 0
 addedShieldDurability = 0
 [netheriteBattlemage.enchanting]

@@ -2,7 +2,7 @@
 	#Default focal range of the camera (without a lens attached).
 	#Allowed range: 10-300
 	#Default: 18-55
-	default_focal_range = "5-60"
+	default_focal_range = "18-60"
 	#Can attack while looking through Viewfinder.
 	#Default: true
 	viewfinder_attacking = true

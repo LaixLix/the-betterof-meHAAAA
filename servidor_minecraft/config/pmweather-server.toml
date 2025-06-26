@@ -1,5 +1,5 @@
 #Whether radar blocks require a completed WSR-88D to be nearby for display
-requirewsr88d = false
+requirewsr88d = true
 #Range within which clouds and storms will spawn from players
 # Default: 384
 # Range: 256 ~ 2048
@@ -7,23 +7,23 @@ spawnrange = 384
 #1 in x chance that a spawning storm will spawn as a squall
 # Default: 10
 # Range: 1 ~ 100
-chanceinonesquall = 10
+chanceinonesquall = 20
 #1 in x chance that a storm will progress to stage 1
 # Default: 2
 # Range: 1 ~ 100
-chanceinonestage1 = 2
+chanceinonestage1 = 6
 #1 in x chance that a storm will progress to stage 2
 # Default: 3
 # Range: 1 ~ 100
-chanceinonestage2 = 3
+chanceinonestage2 = 9
 #1 in x chance that a storm will progress to stage 3 / tornado
 # Default: 5
 # Range: 1 ~ 100
-chanceinonestage3 = 5
+chanceinonestage3 = 15
 #Risk curve, higher is rarer
 # Default: 1.0
 # Range: 0.5 ~ 2.0
-riskcurve = 1.0
+riskcurve = 1.5
 #Multiplier of squall windspeeds
 # Default: 1.25
 # Range: 0.0 ~ 2.0
@@ -31,13 +31,13 @@ squallstrengthmultiplier = 1.25
 #Chance a storm will spawn each minute
 # Default: 0.2
 # Range: 0.0 ~ 1.0
-stormspawnchanceperminute = 0.2
+stormspawnchanceperminute = 0.05
 #Whether chance to spawn storms and chance for storms to progress is affected by the game environment
 environmentsystem = true
 #Maximum number of active storms allowed to spawn
 # Default: 5
 # Range: 1 ~ 10
-maxstorms = 5
+maxstorms = 3
 #Maximum precipitation accumulation, 0 = off
 # Default: 6
 # Range: 0 ~ 8

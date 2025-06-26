@@ -1,6 +1,29 @@
 {
   "editorLastVersion": "0.6.22a",
-  "editorRecentProjects": [],
+  "keybindPerModel": {},
+  "playerSettings": {},
+  "globalSettings": {},
+  "blockedList": {},
+  "modelProperties": {
+    "Dimple/Ekubo Postion": {
+      "values": {
+        "Dimple/Ekubo X Position": 0.20392157,
+        "Dimple/Ekubo Z Position": 0.49803922,
+        "Dimple/Ekubo Y Position": 0.5058824
+      },
+      "profiles": {}
+    }
+  },
+  "serverSettings": {},
+  "editorSelectMouseButton": 0.0,
   "titleScreenButton": true,
-  "serverSettings": {}
+  "friendSettings": {},
+  "keybinds": {},
+  "editorDragMouseButton": -1.0,
+  "editorInvertCamY": true,
+  "editorMenuMouseButton": 1.0,
+  "editorRotateMouseButton": 2.0,
+  "safetyProfiles": {},
+  "editorRecentProjects": [],
+  "friendList": {}
 }

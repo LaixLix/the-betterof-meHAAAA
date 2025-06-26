@@ -1,4 +1,4 @@
 {
-  "combineEnchantments": false,
+  "combineEnchantments": true,
   "blackList": []
 }
