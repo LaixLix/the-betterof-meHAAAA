@@ -35,12 +35,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:06:07 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-26 05:00:22 +0000"
@@ -269,12 +263,6 @@
     },
     "done": true
   },
-  "exposure:recipes/tools/black_and_white_film": {
-    "criteria": {
-      "has_camera": "2025-06-26 05:06:46 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/spell_prism": {
     "criteria": {
       "has_journal": "2025-06-26 05:00:22 +0000"
@@ -340,12 +328,6 @@
       "has_journal": "2025-06-26 05:00:22 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:06:07 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
@@ -443,12 +425,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:06:07 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
     "criteria": {
       "has_journal": "2025-06-26 05:00:22 +0000"
@@ -464,12 +440,6 @@
   "mcwbiomesoplenty:recipes/maple_fences": {
     "criteria": {
       "has_acacia": "2025-06-26 05:00:22 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "shrubland": "2025-06-26 05:04:32 +0000"
     },
     "done": true
   },
@@ -551,23 +521,11 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:06:07 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/ritual_warping": {
     "criteria": {
       "has_journal": "2025-06-26 05:00:22 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:06:07 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/reset_stable_warp_scroll": {
     "criteria": {
@@ -731,12 +689,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:06:07 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-26 05:00:22 +0000"
@@ -899,12 +851,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:06:07 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-26 05:00:22 +0000"
@@ -940,12 +886,6 @@
       "has_journal": "2025-06-26 05:00:22 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:06:07 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/mendosteen_to_lime": {
     "criteria": {
@@ -1007,23 +947,11 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:06:07 +0000"
-    },
-    "done": false
-  },
   "mcwbiomesoplenty:recipes/magic_hedge": {
     "criteria": {
       "has_birch": "2025-06-26 05:00:22 +0000"
     },
     "done": true
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:00:30 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/orange_sbed": {
     "criteria": {
@@ -1106,12 +1034,6 @@
   "ars_nouveau:recipes/misc/sourcestone_sconce": {
     "criteria": {
       "has_journal": "2025-06-26 05:00:22 +0000"
-    },
-    "done": true
-  },
-  "exposure:recipes/tools/camera_stand": {
-    "criteria": {
-      "has_camera": "2025-06-26 05:06:46 +0000"
     },
     "done": true
   },
@@ -1408,12 +1330,6 @@
       "has_journal": "2025-06-26 05:00:22 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:06:07 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/blue_sbed": {
     "criteria": {
@@ -1883,12 +1799,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:00:30 +0000"
-    },
-    "done": false
-  },
   "ars_elemental:recipes/misc/caster_bag": {
     "criteria": {
       "has_journal": "2025-06-26 05:00:22 +0000"
@@ -2003,12 +1913,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:06:07 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-26 05:00:22 +0000"
@@ -2087,12 +1991,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "shrubland": "2025-06-26 05:04:32 +0000"
-    },
-    "done": false
-  },
   "mcwbiomesoplenty:recipes/umbran_hedge": {
     "criteria": {
       "has_birch": "2025-06-26 05:00:22 +0000"
@@ -2146,12 +2044,6 @@
       "has_blackstone": "2025-06-26 05:00:22 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:06:07 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/building_blocks/sourcestone_stone_cutterslab": {
     "criteria": {
@@ -2236,12 +2128,6 @@
       "has_journal": "2025-06-26 05:00:22 +0000"
     },
     "done": true
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:00:30 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
     "criteria": {
@@ -2357,12 +2243,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-26 05:00:30 +0000"
-    },
-    "done": false
-  },
   "global:un_pogaz": {
     "criteria": {
       "trigger": "2025-06-26 05:00:22 +0000"
@@ -2392,13 +2272,6 @@
       "has_journal": "2025-06-26 05:00:22 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:birch_forest": "2025-06-26 05:00:30 +0000",
-      "minecraft:stony_shore": "2025-06-26 05:01:27 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
     "criteria": {
@@ -2466,12 +2339,6 @@
     },
     "done": true
   },
-  "exposure:recipes/tools/color_film": {
-    "criteria": {
-      "has_camera": "2025-06-26 05:06:46 +0000"
-    },
-    "done": true
-  },
   "ars_elemental:recipes/misc/flight_alt": {
     "criteria": {
       "has_journal": "2025-06-26 05:00:22 +0000"
@@ -2495,6 +2362,332 @@
       "has_journal": "2025-06-26 05:00:22 +0000"
     },
     "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:00:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:00:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:00:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:00:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2025-06-26 05:00:30 +0000",
+      "minecraft:stony_shore": "2025-06-26 05:01:27 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "shrubland": "2025-06-26 05:04:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2025-06-26 05:04:32 +0000",
+      "rainforest": "2025-06-27 04:06:56 +0000"
+    },
+    "done": false
+  },
+  "exposure:recipes/tools/black_and_white_film": {
+    "criteria": {
+      "has_camera": "2025-06-26 05:06:46 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/camera_stand": {
+    "criteria": {
+      "has_camera": "2025-06-26 05:06:46 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/color_film": {
+    "criteria": {
+      "has_camera": "2025-06-26 05:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_great_hammer": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/tombstone2": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/stone_cross": {
+    "criteria": {
+      "has_planks": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/wooden_cross": {
+    "criteria": {
+      "has_planks": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_mace": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/small_gravestone": {
+    "criteria": {
+      "has_planks": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_wood": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/tall_gravestone": {
+    "criteria": {
+      "has_planks": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/flat_dirt_gravestone": {
+    "criteria": {
+      "has_planks": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/flat_gravestone": {
+    "criteria": {
+      "has_planks": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/slanted_gravestone": {
+    "criteria": {
+      "has_planks": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/square_gravestone": {
+    "criteria": {
+      "has_planks": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_flail": {
+    "criteria": {
+      "has_stone": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/gravestone": {
+    "criteria": {
+      "has_planks": "2025-06-27 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:22:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:22:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:22:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:22:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:22:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:22:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:22:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:22:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:22:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:22:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:22:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:22:50 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

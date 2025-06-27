@@ -2423,77 +2423,213 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 21:41:28 +0000"
+      "shrubland": "2025-06-26 21:35:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2025-06-26 21:36:23 +0000",
+      "floodplain": "2025-06-26 21:37:34 +0000",
+      "shrubland": "2025-06-26 21:35:16 +0000",
+      "old_growth_woodland": "2025-06-26 21:36:50 +0000",
+      "rainforest": "2025-06-26 21:36:19 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 21:41:28 +0000"
+      "has_stone": "2025-06-26 21:35:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "expanded_combat:recipes/combat/stone_great_hammer": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 21:41:28 +0000"
+      "has_stone": "2025-06-26 21:35:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "vampirism:recipes/decorations/general/tombstone2": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 21:41:28 +0000"
+      "has_stone": "2025-06-26 21:35:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "mcwholidays:recipes/stone_cross": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 21:41:28 +0000"
+      "has_planks": "2025-06-26 21:35:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "mcwholidays:recipes/wooden_cross": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 21:41:28 +0000"
+      "has_planks": "2025-06-26 21:35:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 21:41:28 +0000"
+      "has_stone": "2025-06-26 21:35:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "expanded_combat:recipes/combat/stone_mace": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 21:41:28 +0000"
+      "has_stone": "2025-06-26 21:35:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 21:41:28 +0000"
+      "has_stone": "2025-06-26 21:35:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "mcwholidays:recipes/small_gravestone": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 21:41:28 +0000"
+      "has_planks": "2025-06-26 21:35:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 21:41:28 +0000"
+      "has_stone": "2025-06-26 21:35:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 21:41:28 +0000"
+      "has_stone": "2025-06-26 21:35:44 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone": {
+    "criteria": {
+      "has_stone": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_wood": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/tall_gravestone": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/flat_dirt_gravestone": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/flat_gravestone": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/slanted_gravestone": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/square_gravestone": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_flail": {
+    "criteria": {
+      "has_stone": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/gravestone": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:35:44 +0000"
+    },
+    "done": true
   },
   "smallships:recipes/transportation/bamboo_galley": {
     "criteria": {
@@ -2531,21 +2667,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_great_hammer": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
     },
     "done": true
   },
@@ -2573,12 +2697,6 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/general/tombstone2": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
@@ -2597,27 +2715,9 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/stone_cross": {
-    "criteria": {
-      "has_planks": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_coal": "2025-06-26 21:36:40 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/spirit_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "shrubland": "2025-06-26 21:35:16 +0000"
     },
     "done": true
   },
@@ -2657,12 +2757,6 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/wooden_cross": {
-    "criteria": {
-      "has_planks": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/bamboo_brigg": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
@@ -2672,18 +2766,6 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/grave_cage": {
-    "criteria": {
-      "has_coal": "2025-06-26 21:36:40 +0000"
     },
     "done": true
   },
@@ -2699,21 +2781,9 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/stone_mace": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
     },
     "done": true
   },
@@ -2747,21 +2817,9 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/small_gravestone": {
-    "criteria": {
-      "has_planks": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/mangrove_galley": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
     },
     "done": true
   },
@@ -2774,18 +2832,6 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
     },
     "done": true
   },
@@ -2816,12 +2862,6 @@
   "smallships:recipes/transportation/jungle_drakkar": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
     },
     "done": true
   },
@@ -2861,18 +2901,6 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/arrow_slits_gothic": {
-    "criteria": {
-      "has_wood": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:spider": "2025-06-26 21:36:01 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/bamboo_drakkar": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
@@ -2885,45 +2913,15 @@
     },
     "done": true
   },
-  "mcwlights:recipes/torches": {
-    "criteria": {
-      "has_wood": "2025-06-26 21:36:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/rocky_stone": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
     },
     "done": true
   },
@@ -2945,33 +2943,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:spider": "2025-06-26 21:36:01 +0000"
-    },
-    "done": false
-  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
     },
     "done": true
   },
@@ -2999,12 +2979,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/bridge_lantern": {
-    "criteria": {
-      "has_planks": "2025-06-26 21:36:40 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/baobab_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
@@ -3023,27 +2997,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-06-26 21:36:01 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/adventure/root": {
-    "criteria": {
-      "biomeswevegone:amaranth_grassland": "2025-06-26 21:36:57 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/white_mangrove_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/stone": {
-    "criteria": {
-      "has_wood": "2025-06-26 21:35:44 +0000"
     },
     "done": true
   },
@@ -3083,12 +3039,6 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/tall_gravestone": {
-    "criteria": {
-      "has_planks": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
@@ -3100,28 +3050,6 @@
       "in_water": "2025-06-26 21:35:56 +0000"
     },
     "done": true
-  },
-  "mcwholidays:recipes/flat_dirt_gravestone": {
-    "criteria": {
-      "has_planks": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
-    "criteria": {
-      "biomeswevegone:amaranth_grassland": "2025-06-26 21:36:57 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "woodland": "2025-06-26 21:36:23 +0000",
-      "floodplain": "2025-06-26 21:37:34 +0000",
-      "shrubland": "2025-06-26 21:35:16 +0000",
-      "old_growth_woodland": "2025-06-26 21:36:50 +0000",
-      "rainforest": "2025-06-26 21:36:19 +0000"
-    },
-    "done": false
   },
   "biomeswevegone:recipes/transportation/florus_boat": {
     "criteria": {
@@ -3141,12 +3069,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
@@ -3156,12 +3078,6 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-06-26 21:36:40 +0000"
     },
     "done": true
   },
@@ -3195,12 +3111,6 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/stone": {
-    "criteria": {
-      "has_planks": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
@@ -3219,21 +3129,9 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/flat_gravestone": {
-    "criteria": {
-      "has_planks": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/transportation/dark_spruce_boat": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/stone_bricks": {
-    "criteria": {
-      "has_planks": "2025-06-26 21:35:44 +0000"
     },
     "done": true
   },
@@ -3249,41 +3147,143 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/slanted_gravestone": {
-    "criteria": {
-      "has_planks": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/square_gravestone": {
-    "criteria": {
-      "has_planks": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/stone_flail": {
-    "criteria": {
-      "has_stone": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/gravestone": {
-    "criteria": {
-      "has_planks": "2025-06-26 21:35:44 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/cherry_cog": {
     "criteria": {
       "in_water": "2025-06-26 21:35:56 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-06-26 21:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-06-26 21:36:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-26 21:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-06-26 21:36:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/grave_cage": {
+    "criteria": {
+      "has_coal": "2025-06-26 21:36:40 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_wood": "2025-06-26 21:36:40 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-06-26 21:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-06-26 21:36:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:amaranth_grassland": "2025-06-26 21:36:57 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:amaranth_grassland": "2025-06-26 21:36:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:15:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-27 04:15:49 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
